@@ -14,4 +14,4 @@
 
  
 This project could be a benefit to insurer (new or old) to have a better understanding of what their insurance actually cover. Therefore, this could be a good resource for them to make further decisions (to switch, keep, or change ) to their insurance plan. 
-#### PROJECT DASHBOARD / STORY <a href="[https://public.tableau.com/app/profile/amy.herrou](https://public.tableau.com/views/TransparencyofInsuranceCoverage/StorySlide?:language=en-US&:display_count=n&:origin=viz_share_link)"><img align="center" src="https://github.com/AmyHerrou/images/blob/main/icon-tableau.png" alt="Amy Herrou | Tableau" width="71px"/></a>
+#### PROJECT DASHBOARD / STORY <a href="https://public.tableau.com/views/TransparencyofInsuranceCoverage/StorySlide?:language=en-US&:display_count=n&:origin=viz_share_link"><img align="center" src="https://github.com/AmyHerrou/images/blob/main/icon-tableau.png" alt="Amy Herrou | Tableau" width="51px"/></a>
